@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#root {
+  width: 800px;
+  height: 800px;
+}
+
+.piece {
+  font-size: 75px;
+}
